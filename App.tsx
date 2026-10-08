@@ -210,7 +210,7 @@ export default function App() {
         style={{ display: isVideoVisible ? 'none' : 'block' }}
       >
         <img
-          src="https://pub-bfae9b39b66c495c8c35815699865b03.r2.dev/1.png"
+          src="1.png"
           alt="佛说阿弥陀经封面"
         />
         <p
@@ -231,7 +231,7 @@ export default function App() {
         style={{ display: isVideoVisible ? 'block' : 'none' }}
       >
         <source
-          src="https://amtb.sun.edu.my/%E4%BD%9B%E8%AA%AA%E9%98%BF%E5%BD%8C%E9%99%80%E7%B6%93.mp4"
+          src="佛說阿彌陀經360p.mp4"
           type="video/mp4"
         />
         您的浏览器不支持 HTML5 视频播放。
