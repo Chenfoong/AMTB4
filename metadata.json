@@ -1,0 +1,6 @@
+{
+  "name": "佛说阿弥陀经",
+  "description": "佛说阿弥陀经全文阅读与视频，净土宗经典，姚秦鸠摩罗什奉诏译，支持简繁切换、护眼模式与字号调节。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
